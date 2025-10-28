@@ -1,0 +1,2 @@
+# LAWbot
+Legeal ai assistant 
